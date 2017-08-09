@@ -4032,7 +4032,7 @@ i.flag:not(.icon) {
 i.flag:not(.icon):before {
     display: inline-block;
     content: '';
-    background: url(../app/vendor/themes/default/assets/images/flags.png) no-repeat;
+    background: url(../../app/vendor/themes/default/assets/images/flags.png) no-repeat;
     width: 16px;
     height: 11px
 }
@@ -5881,9 +5881,9 @@ a.ui.inverted.grey.header:hover {
 
 @font-face {
     font-family: Icons;
-    src: url(../app/vendor/themes/default/assets/fonts/icons.eot);
-    src: url(../app/vendor/themes/default/assets/images/flags.png);
-    src: url(../app/vendor/themes/default/assets/fonts/icons.eot?#iefix) format('embedded-opentype'), url(../app/vendor/themes/default/assets/fonts/icons.woff2) format('woff2'), url(../app/vendor/themes/default/assets/fonts/icons.woff) format('woff'), url(../app/vendor/themes/default/assets/fonts/icons.ttf) format('truetype'), url(../app/vendor/themes/default/assets/fonts/icons.svg#icons) format('svg');
+    src: url(../../app/vendor/themes/default/assets/fonts/icons.eot);
+    src: url(../../app/vendor/themes/default/assets/images/flags.png);
+    src: url(../../app/vendor/themes/default/assets/fonts/icons.eot?#iefix) format('embedded-opentype'), url(../../app/vendor/themes/default/assets/fonts/icons.woff2) format('woff2'), url(../../app/vendor/themes/default/assets/fonts/icons.woff) format('woff'), url(../../app/vendor/themes/default/assets/fonts/icons.ttf) format('truetype'), url(../../app/vendor/themes/default/assets/fonts/icons.svg#icons) format('svg');
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
